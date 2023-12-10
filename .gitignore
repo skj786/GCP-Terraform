@@ -1,0 +1,4 @@
+tfcode/GCP-TF-Cred.json
+tfcode/terraform.tfstate
+tfcode/terraform.tfstate.backup
+tfcode/terraform.tfvars
