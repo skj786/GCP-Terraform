@@ -2,9 +2,9 @@ variable "gcp-project-region"{
 
 }
 
-variable "instancename" {
+#variable "instancename" {
   
-}
+#}
 
 
 

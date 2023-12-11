@@ -1,7 +1,7 @@
 
 resource "google_compute_instance" "my_test_vm" {
   
-  name = var.instancename
+  name = "instance-1"
   machine_type = "f1-micro"
   zone = var.gcp-project-zone
 
